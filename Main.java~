@@ -1,0 +1,7 @@
+public class Main {
+	public static void main(String[] args) {
+		Asic asic = new Asic();
+		// Player player = new Player()
+		asic.reboot();
+	}
+}
